@@ -1,0 +1,15 @@
+{
+  "event_id": "evt-10099",
+  "event_type": "employee.created",
+  "occurred_at": "2026-09-24T10:30:00Z",
+  "employee": {
+    "employee_id": "10099",
+    "first_name": "Jonas",
+    "last_name": "Visser",
+    "work_email": "jonas.visser-at-example",
+    "department": "Finance",
+    "cost_center": "CC-200",
+    "location": "Utrecht"
+  }
+}
+

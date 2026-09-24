@@ -1,0 +1,12 @@
+title = "hr-integration-orchestrator gitleaks config"
+
+[extend]
+useDefault = true
+
+[allowlist]
+description = "Non-secret local development defaults"
+paths = [
+  '''\.env\.example$''',
+  '''docker-compose\.yml$''',
+]
+

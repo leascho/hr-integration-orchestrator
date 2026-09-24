@@ -1,0 +1,17 @@
+{
+  "event_id": "evt-10001",
+  "event_type": "employee.created",
+  "occurred_at": "2026-09-24T10:30:00Z",
+  "employee": {
+    "employee_id": "EMP-10001",
+    "first_name": "Maya",
+    "last_name": "Klein",
+    "work_email": "maya.klein@example.test",
+    "start_date": "2026-10-01",
+    "department": "Technology",
+    "cost_center": "CC-100",
+    "location": "Amsterdam",
+    "manager_employee_id": "EMP-00042"
+  }
+}
+
